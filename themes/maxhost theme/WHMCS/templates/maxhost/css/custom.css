@@ -1,0 +1,193 @@
+/* *****************************************************
+
+    ** Custom Stylesheet **
+
+    Any custom styling you want to apply should be
+    defined here.
+
+***************************************************** */
+.domain-bulk-options-box{
+	top: 14px;
+}
+.newgroup input[type="text"] {
+    border-color: #d9d9d9;
+    border-style: solid;
+    border-width: 1px 0 1px 1px;
+    color: #161616;
+    float: left;
+    font-size: 14px;
+    font-weight: 400;
+    height: 40px;
+    line-height: 39px;
+    padding: 0 7px;
+    width: 100%;
+}
+.newgroup{
+	margin-bottom: 20px;
+}
+.newgroup-btn .btn {
+	font-size: 16px !important;
+	padding: 8px 20px !important;
+}
+.popover-content .input-group-btn .btn{
+	padding: 7px 12px !important;
+}
+.domain-bulk-options-box .btn, .signupfields .input-group-btn .btn, .panel .panel-body .input-group .input-group-btn .btn{
+	padding: 7.2px 20px;
+}
+.panel-footer .col-button-left .btn, .panel-footer .col-button-right .btn{
+	padding: 5px 15px;
+}
+.domain-checker-fieldcontainer .btn{
+	padding: 12px 25px;
+}
+.domainregperiod .form-control{
+	float: right;
+	margin-right: 80px;
+	text-align: center;
+	height: 28px;
+}
+
+.domain-checker-container, .domain-checker-container .input-group-box, .domain-checker-container .form-control, .domain-checker-container .domain-check-availability, .domain-checker-container .btn-sm{
+	border-radius: 0 !important;
+}
+section#main-body {
+    margin-top: 40px;
+	margin-bottom: 0;
+}
+.fb_iframe_widget{
+	margin-bottom:20px;
+}
+.table > thead > tr > th {
+    border-bottom: 1px solid #e4e4e4;
+    text-transform: uppercase;
+}
+div.header-lined h1{
+	text-transform: uppercase !important;
+}
+div.header-lined .breadcrumb{
+	text-transform: uppercase;
+}
+div.header-lined h1{
+	color: #49a32b;
+}
+.announcement-single h2 a {
+    color: #49a32b;
+	text-decoration: none;
+}
+.navbar-main .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    text-decoration: none;
+    color: #fff;
+    background-color: #49a32b;
+}
+#btnShowSidebar {
+    outline: 0 none;
+}
+@media only screen and (max-width: 750px) {
+.home-shortcuts li:first-child {
+    border-left: medium none !important;
+}
+.home-shortcuts li {
+    border-right: medium none !important;
+}
+}
+/**Premium comparison table**/
+#order-premium_comparison .price-table-container .price-table .top-head {
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #49a32b 0%, #004c00 100%) repeat scroll 0 0  !important;
+}
+#order-premium_comparison .price-table-container .price-table .top-head .top-area {
+    border-bottom: 1px solid #156f00 !important;
+}
+#order-premium_comparison .price-table-container .price-table .top-head .price-area {
+    border-top: 1px solid #439d25 !important;
+}
+#order-premium_comparison .price-table-container .order-button, #order-premium_comparison .price-table-container .order-button:hover {
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #49a32b 0%, #004c00 100%) repeat scroll 0 0 !important;
+}
+/**Premium comparison table end**/
+
+.col-md-9.pull-md-right.main-content{
+z-index: 1 !important;
+}
+@media only screen and (max-width: 997px) {
+.col-md-9.pull-md-right.main-content{
+margin: 0 15px !important;
+}
+.col-md-9.pull-md-right .header-lined{
+display: none;
+}
+}
+@media (min-width: 998px) {
+.col-md-9.pull-md-right.main-content .alert{
+padding: 50px;
+}
+}
+@media screen and (min-width: 768px) {
+.section.col-sm-offset-3.col-sm-9 .panel {
+    margin-top: 30px !important;
+    margin-left: 25% !important;
+}
+}
+@media screen and (max-width: 767px) {
+.section.col-sm-offset-3.col-sm-9 .panel {
+    margin-top: 30px !important;
+    margin-left: 5% !important;
+margin-right: 5% !important;
+}
+}
+.sky-form #ccinputform{ display: none; }
+#order-modern .panel-title{
+	text-align: center;
+	margin-top: 20px;
+}
+
+.row.domains-row{
+margin-top: 0;
+}
+.domain-search-results .btn.btn-default.btn-lg{
+	margin-top: 20px;
+}
+@media (min-width: 768px) {
+#order-standard_cart .domain-add-domain {
+    margin: 25px 0 25px 100px !important;
+}
+}
+.domainregperiod, .domainsuggestions{
+	margin:10px auto !important;
+}
+.domainavailable{
+	font-size: 16px !important;
+	font-weight: bold;
+	color: green;
+	margin: 10px auto 20px auto !important;
+}
+.domainunavailable{
+	font-size: 16px !important;
+	font-weight: bold;
+	color: red;
+	margin: 10px auto 20px auto !important;
+}
+.domainsuggestions tr, .domainsuggestions th{
+	padding-bottom: 10px !important;
+}
+
+#order-standard_cart div.header-lined h1 {  
+	position: relative;
+	z-index : 1;
+	border-bottom: none;
+    text-align: left;
+    margin-bottom: 50px !important;
+	margin-left: 15px;
+}
+#order-standard_cart div.header-lined.registering h1 {  
+	margin-left: 0;
+}
+#order-standard_cart div.header-lined h1:before {
+  content : "";
+  position: absolute;
+  left    : 0;
+  bottom  : 0;
+  height  : 1px;
+  width   : 50px;
+  border-bottom:1px solid #959595;
+}

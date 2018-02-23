@@ -1,0 +1,368 @@
+/* *****************************************************
+
+    ** Custom Stylesheet **
+
+    Any custom styling you want to apply should be
+    defined here.
+
+***************************************************** */
+.domain-bulk-options-box{
+	top: 14px;
+}
+.newgroup input[type="text"] {
+    border-color: #d9d9d9;
+    border-style: solid;
+    border-width: 1px 0 1px 1px;
+    color: #161616;
+    float: left;
+    font-size: 14px;
+    font-weight: 400;
+    height: 40px;
+    line-height: 39px;
+    padding: 0 7px;
+    width: 100%;
+}
+.newgroup{
+	margin-bottom: 20px;
+}
+.newgroup-btn .btn {
+	font-size: 16px !important;
+	padding: 8px 20px !important;
+}
+.popover-content .input-group-btn .btn{
+	padding: 7px 12px !important;
+}
+.domain-bulk-options-box .btn, .signupfields .input-group-btn .btn, .panel .panel-body .input-group .input-group-btn .btn{
+	padding: 7.2px 20px;
+}
+.panel-footer .col-button-left .btn, .panel-footer .col-button-right .btn{
+	padding: 5px 15px;
+}
+.domain-checker-fieldcontainer .btn{
+	padding: 12px 25px;
+}
+.domainregperiod .form-control{
+	float: right;
+	margin-right: 80px;
+	text-align: center;
+	height: 28px;
+}
+
+.domain-checker-container, .domain-checker-container .input-group-box, .domain-checker-container .form-control, .domain-checker-container .domain-check-availability, .domain-checker-container .btn-sm{
+	border-radius: 0 !important;
+}
+section#main-body {
+    margin-top: 40px;
+	margin-bottom: 0;
+}
+.fb_iframe_widget{
+	margin-bottom:20px;
+}
+.table > thead > tr > th {
+    border-bottom: 1px solid #e4e4e4;
+    text-transform: uppercase;
+}
+div.header-lined h1{
+	text-transform: uppercase !important;
+}
+div.header-lined .breadcrumb{
+	text-transform: uppercase;
+	padding-left: 15px;
+}
+div.header-lined .breadcrumb > .active {
+    color: #919191;
+}
+div.header-lined h1{
+	color: #49a32b;
+}
+.announcement-single h2 a {
+    color: #49a32b;
+	text-decoration: none;
+}
+.navbar-main .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    text-decoration: none;
+    color: #fff;
+    background-color: #49a32b;
+}
+#btnShowSidebar {
+    outline: 0 none;
+}
+@media only screen and (max-width: 750px) {
+.home-shortcuts li:first-child {
+    border-left: medium none !important;
+}
+.home-shortcuts li {
+    border-right: medium none !important;
+}
+}
+/**Premium comparison table**/
+#order-premium_comparison .price-table-container .price-table .top-head {
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #49a32b 0%, #004c00 100%) repeat scroll 0 0  !important;
+}
+#order-premium_comparison .price-table-container .price-table .top-head .top-area {
+    border-bottom: 1px solid #156f00 !important;
+}
+#order-premium_comparison .price-table-container .price-table .top-head .price-area {
+    border-top: 1px solid #439d25 !important;
+}
+#order-premium_comparison .price-table-container .order-button, #order-premium_comparison .price-table-container .order-button:hover {
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #49a32b 0%, #004c00 100%) repeat scroll 0 0 !important;
+}
+/**Premium comparison table end**/
+
+.col-md-9.pull-md-right.main-content{
+z-index: auto !important;
+}
+@media only screen and (max-width: 997px) {
+.col-md-9.pull-md-right.main-content{
+margin: 0 15px !important;
+}
+.col-md-9.pull-md-right .header-lined{
+display: none;
+}
+}
+@media (min-width: 998px) {
+.col-md-9.pull-md-right.main-content .alert{
+padding: 50px;
+}
+}
+@media screen and (min-width: 768px) {
+.section.col-sm-offset-3.col-sm-9 .panel {
+    margin-top: 30px !important;
+    margin-left: 25% !important;
+}
+}
+@media screen and (max-width: 767px) {
+.section.col-sm-offset-3.col-sm-9 .panel {
+    margin-top: 30px !important;
+    margin-left: 5% !important;
+margin-right: 5% !important;
+}
+}
+.sky-form #ccinputform{ display: none; }
+
+@media (min-width: 768px) {
+#mg-wrapper .modal-dialog {
+    width: 600px;
+    margin: 130px auto !important;
+}
+}
+@media (max-width: 767px) {
+#mg-wrapper .modal-dialog {
+    width: 600px;
+    margin: 100px auto !important;
+}
+}
+#order-modern .panel-title{
+	text-align: center;
+	margin-top: 20px;
+}
+
+
+.row.domains-row{
+margin-top: 0;
+}
+.domain-search-results .btn.btn-default.btn-lg{
+	margin-top: 20px;
+}
+@media (min-width: 768px) {
+#order-standard_cart .domain-add-domain {
+    margin: 25px 0 25px 100px !important;
+}
+}
+.domainregperiod, .domainsuggestions{
+	margin:10px auto !important;
+}
+.domainavailable{
+	font-size: 16px !important;
+	font-weight: bold;
+	color: green;
+	margin: 10px auto 20px auto !important;
+}
+.domainunavailable{
+	font-size: 16px !important;
+	font-weight: bold;
+	color: red;
+	margin: 10px auto 20px auto !important;
+}
+.domainsuggestions tr, .domainsuggestions th{
+	padding-bottom: 10px !important;
+}
+#order-standard_cart div.header-lined h1 {  
+	position: relative;
+	z-index : 1;
+	border-bottom: none;
+    text-align: left;
+    margin-bottom: 30px !important;
+}
+#order-standard_cart div.header-lined.registering h1 {  
+	margin-left: 0;
+}
+#order-standard_cart div.header-lined h1:before {
+  content : "";
+  position: absolute;
+  left    : 0;
+  bottom  : 0;
+  height  : 1px;
+  width   : 50px;
+  border-bottom:1px solid #959595;
+}
+
+/*Store CSS*/
+section#main-body {
+    margin-left: auto !important;
+    margin-right: auto !important;
+    margin-top: 20px !important;
+}
+.navbar-default .navbar-nav.newstore > li > a{
+	color: #454545 !important;
+}
+.navbar-default .navbar-nav.newstore > li:hover{
+	background-color: #D4D4D4 !important;
+}
+.landing-page.ssl .detailed-info {
+    padding: 30px 0 10px 0 !important;
+}
+.landing-page.ssl .detailed-info .panel-heading h4 {
+    padding-top: 15px !important;
+}
+.content-block.faq .row{
+	padding-left: 15px !important;
+	padding-right: 15px !important;
+}
+.landing-page .faq h3 {
+    margin: 0 0 45px 0 !important;
+}
+.landing-page .product-options {
+    padding: 40px 20px !important;
+}
+#howitworks .nav.nav-tabs{
+	padding-left: 15px !important;
+}
+#pricing form{
+	padding-left: 15px !important;
+	padding-right: 15px !important;
+}
+.landing-page .pricing-item .header {
+    display: none !important;
+}
+
+@media (min-width: 992px){
+.landing-page .navbar .navbar-nav > li > a {
+    border-left: 1px solid #ccc;
+    border-top: 1px solid #ccc;
+}
+}
+.domain-price .btn {
+    padding: 6px 12px;
+}
+.spotlight-tld .domain-contact-support {
+    margin: 0 !important;
+}
+#order-standard_cart .btn-remove-from-cart{
+	padding: 1px 5px;
+}
+#order-standard_cart .product-info .product-title {
+    padding: 20px 0;
+    font-weight: bold;
+}
+.view-cart-tabs .nav > li:last-child > a {
+    padding-right: 10px;
+}
+#order-standard_cart .order-summary h2 {
+	margin: 0 !important;
+}
+
+.positive-row{
+	margin-left: 15px !important;
+	margin-right: 15px !important;
+}
+.landing-page.ssl .content-block h3.pull-left{
+	margin: 0 0 20px 0px !important;
+}
+.row-pricing-table .sidebar{
+	margin-top: 0 !important;
+}
+.landing-page.ssl .content-block.dashed-border h4{
+	margin-left: 0 !important;
+}
+.full-page-width{
+	width: 100vw !important;
+    margin-left: calc(-50vw + 50%) !important;
+}
+.nav.nav-tabs > li:last-child > a {
+    padding-right: 13px !important;
+}
+.store-domain-tab-content, .icon-left{
+	margin-bottom: 25px;
+}
+#frmAddToCart{
+	margin-bottom: 30px;
+}
+.promo-banner{
+	margin-top: 30px;
+	margin-bottom: 30px;
+}
+ul.notloggedinuser li{
+	display: inline-block;
+	position: relative;
+}
+ul.notloggedinuser li a{
+	text-decoration: none;
+	padding: 0 10px 0 10px;
+}
+section#home-banner {
+    background-color: #2E363F;
+}
+#primary-nav .nav .caret, #primary-nav .nav a:hover .caret {
+    border-bottom-color: #919191;
+    border-top-color: #919191;
+}
+.main-content h2, .main-content h3, .main-content h4{
+	margin-top: 20px !important;
+}
+.label.status{
+	color: #919191;
+	padding: 5px;
+	font-weight: 700;
+	text-align: center;
+	white-space: nowrap;
+	vertical-align: baseline;
+	display: block;
+}
+#tableTicketsList_wrapper .label.status-customer-reply {
+    color: #f60;
+}
+#ticketReply .collapse-icon.pull-right, #frmReply .form-group.text-center .btn.btn-default, #frmReply .md-fullscreen-controls, #frmReply .md-control-fullscreen{
+	display: none;
+}
+.btn-sm{
+	padding: 5px 10px !important;
+}
+@media only screen and (max-width: 320px) {
+.using-password-strength .row{
+	margin-left: 0 !important;
+}
+#main-menu .navbar-header {
+    width: 40px !important;
+}
+.notloggedinuser{
+	padding-left: 0 !important;
+}
+}
+@media only screen and (max-width: 999px){
+.container {
+    z-index: 1 !important;
+}
+.navbar-collapse.in{
+overflow-y: scroll !important;
+-webkit-overflow-scrolling: touch !important;
+}
+.yamm .yamm-content {
+    padding: 20px 30px !important;
+}
+}
+.main-content {
+    margin-bottom: 30px;
+    min-height: 300px;
+}

@@ -1,0 +1,133 @@
+/* Logo */
+.navbar-brand.logo {
+	background: url(../../images/logo-l-blue.png) no-repeat left 21px;
+}
+.list-unstyled a:hover, .dropdown-menu>li>a:hover, .font-color, .iconbox, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover,
+.icon-boxed.wide90, .view-links a, .sky-form a, .sky-form .checkbox input + i::after, .fea-col-box:hover .wide80{
+	color:#3498db;
+}
+.fea-col-box.active, .ms-layer.btn3, .orange-button, .fea-col:hover .iconbox, .iconbox:hover, .iconbox.active, .orange-button.one, .title-line, .blue-button,
+.fea-sce-col:hover .icon-boxed, .fea-sce-col.active .icon-boxed, .carousel-indicators .active, .small-circle-no, .orange-button.two, ul.social-icons li a:hover,
+.pricing-box.style-1 div.price, .samll-grey-button:hover, .pricing-box.style-1:hover .samll-grey-button, .pricing-box.style-1.active .samll-grey-button, .sky-form .button.seven, .header-top.black-bg-light a.register-btn, .button a.boxed-color-sm.orange, .button a.boxed-color-xs.orange, .sec-col-left h2 span, .sec-col-right h2 span, .color-bg, .service-title-color, form .submit-btn, .header.headr-style-2 .navbar-default, .compact .header.olivebg, h2.bg-color span, .team-thumb:hover .team-col .team-overlay, .team-thumb.active .team-col .team-overlay, .sky-form .button, .sec-title h2::before, .fea-col-box:hover, .tab-style .nav-tabs > li.active > a, .tab-style .nav-tabs > li.active > a:focus, .tab-style .nav-tabs > li.active > a:hover, .tab-style .nav-tabs > li > a:hover, .new-domin-list li,
+.carousel-indicators .active, .carousel-indicators.white-color .active, .price-info-circle, .pricing-box-home2 h2, .pricing-box-home2 .order,
+.collaps-style-2 .panel-default > .panel-heading, .bg-color-plain, .tab-style-1 .nav-tabs > li.active > a, .tab-style-1 .nav-tabs > li.active > a:focus, .tab-style-1 .nav-tabs > li.active > a:hover, .tab-style-1 .nav-tabs > li > a:hover, .small-circle-commet, .pricing-box-home5 h2, .pricing-box-home5:hover .price, .pricing-box-home5.active .price, .pricing-box-home5:hover .order-now, .pricing-box-home5.active .order-now, .two-color-boxes-multi{
+	background:#3498db;
+}
+.col-fea-box{
+	background: rgba(53, 152, 219, .8);
+}
+.orange-button, .blue-button, .samll-grey-button:hover, .pricing-box.style-1:hover .samll-grey-button, .pricing-box.style-1.active .samll-grey-button, .col-fea-box-white::before{
+	border:solid 1px #3498db;
+}
+.domain-search {
+	background:#3498db url(../../images/clouds-white.png) repeat-x center bottom;
+}
+.service-title {
+    background: #3498db url(../../images/clouds-white-small.png) no-repeat scroll left bottom;
+}
+.domain-search.shape-white {
+    background: #3498db url(../../images/shape-white.png) no-repeat scroll center bottom;
+}
+.sky-form .radio input:checked + i, .sky-form .checkbox input:checked + i, .sky-form .toggle input:checked + i{
+	border-color:#3498db;
+}
+
+/* scroll up */
+.scrollup {
+	background: #3498db url(../../images/scroll-top-arrow.png) no-repeat 15px 14px;
+}
+
+/* whmcs pages colors */
+.div.header-lined h1, ol.breadcrumb li a, h1 small, .kbcategories a, .kbcategories a .glyphicon, .kbarticles a, .kbarticles a .glyphicon{
+	color: #3498db !important;
+}
+.btn-success, .btn-primary, .kbcategories .badge, a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.active:focus, .btn-info, .btn-info:hover{
+	background-color: #3498db !important;
+}
+.nav .caret, .nav a:hover .caret {
+    border-bottom-color: #3498db;
+    border-top-color: #3498db;
+}
+.btn-success, .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover, .btn-primary, .btn-primary:hover, .btn-success:hover, .btn-info, .btn-info:hover{
+	border-color: #3498db;
+}
+blockquote {
+    border-left: 5px solid #3498db;
+}
+.home-shortcuts {
+    background: #3498db none repeat scroll 0 0;
+}
+.home-shortcuts li:first-child {
+    border-left: 1px solid #267aea;
+}
+.home-shortcuts li {
+    border-right: 1px solid #267aea;
+}
+.table > thead > tr > th {
+    border-bottom: 1px solid #3498db;
+}
+.dataTables_wrapper .dataTables_info{
+	background-color: #3498db !important;
+}
+#main-body .table-container table.table-list thead th{
+	background-color: #e6ecef !important;
+}
+#main-body .table-container .table > thead > tr > th {
+    border-bottom: 1px solid #e6ecef;
+}
+.home-shortcuts {
+  background: #3498db;
+}
+.home-shortcuts li {
+  border-right: 1px solid #267aea;
+}
+.home-shortcuts li:first-child {
+  border-left: 1px solid #267aea;
+}
+.btn-info{color:#fff;background-color:#3498db;border-color:#3498db}
+.btn-info.focus,.btn-info:focus{color:#fff;background-color:#267aea;border-color:#267aea}
+.btn-info:hover{color:#fff;background-color:#267aea;border-color:#267aea}
+.btn-info.active,.btn-info:active,.open>.dropdown-toggle.btn-info{color:#fff;background-color:#267aea;border-color:#267aea}
+.kbarticles a {
+    color: #3498db;
+}
+.kbarticles a .glyphicon {
+    color: #3498db;
+}
+.kbcategories a{
+	color: #3498db;
+}
+.kbcategories a .glyphicon{
+	color: #3498db;
+}
+.badge {
+    background-color: #3498db;
+}
+div.header-lined h1{
+	color: #3498db;
+}
+.announcement-single h2 a {
+    color: #3498db;
+}
+.navbar-main .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    text-decoration: none;
+    color: #fff;
+    background-color: #3498db;
+}
+.table > thead > tr > th {
+    border-bottom: 1px solid #e4e4e4;
+}
+/**Premium comparison table**/
+#order-premium_comparison .price-table-container .price-table .top-head {
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #3498db 0%, #267aea 100%) repeat scroll 0 0  !important;
+}
+#order-premium_comparison .price-table-container .price-table .top-head .top-area {
+    border-bottom: 1px solid #267aea !important;
+}
+#order-premium_comparison .price-table-container .price-table .top-head .price-area {
+    border-top: 1px solid #3498db !important;
+}
+#order-premium_comparison .price-table-container .order-button, #order-premium_comparison .price-table-container .order-button:hover {
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #3498db 0%, #267aea 100%) repeat scroll 0 0 !important;
+}
+/**Premium comparison table end**/

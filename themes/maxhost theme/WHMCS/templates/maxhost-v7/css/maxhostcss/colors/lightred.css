@@ -1,0 +1,133 @@
+/* Logo */
+.navbar-brand.logo {
+	background: url(../../images/logo-l-red.png) no-repeat left 21px;
+}
+.list-unstyled a:hover, .dropdown-menu>li>a:hover, .font-color, .iconbox, .navbar-default .navbar-nav > li > a:focus, .navbar-default .navbar-nav > li > a:hover,
+.icon-boxed.wide90, .view-links a, .sky-form a, .sky-form .checkbox input + i::after, .fea-col-box:hover .wide80{
+	color:#f35c55;
+}
+.fea-col-box.active, .ms-layer.btn3, .orange-button, .fea-col:hover .iconbox, .iconbox:hover, .iconbox.active, .orange-button.one, .title-line, .blue-button,
+.fea-sce-col:hover .icon-boxed, .fea-sce-col.active .icon-boxed, .carousel-indicators .active, .small-circle-no, .orange-button.two, ul.social-icons li a:hover,
+.pricing-box.style-1 div.price, .samll-grey-button:hover, .pricing-box.style-1:hover .samll-grey-button, .pricing-box.style-1.active .samll-grey-button, .sky-form .button.seven, .header-top.black-bg-light a.register-btn, .button a.boxed-color-sm.orange, .button a.boxed-color-xs.orange, .sec-col-left h2 span, .sec-col-right h2 span, .color-bg, .service-title-color, form .submit-btn, .header.headr-style-2 .navbar-default, .compact .header.olivebg, h2.bg-color span, .team-thumb:hover .team-col .team-overlay, .team-thumb.active .team-col .team-overlay, .sky-form .button, .sec-title h2::before, .fea-col-box:hover, .tab-style .nav-tabs > li.active > a, .tab-style .nav-tabs > li.active > a:focus, .tab-style .nav-tabs > li.active > a:hover, .tab-style .nav-tabs > li > a:hover, .new-domin-list li,
+.carousel-indicators .active, .carousel-indicators.white-color .active, .price-info-circle, .pricing-box-home2 h2, .pricing-box-home2 .order,
+.collaps-style-2 .panel-default > .panel-heading, .bg-color-plain, .tab-style-1 .nav-tabs > li.active > a, .tab-style-1 .nav-tabs > li.active > a:focus, .tab-style-1 .nav-tabs > li.active > a:hover, .tab-style-1 .nav-tabs > li > a:hover, .small-circle-commet, .pricing-box-home5 h2, .pricing-box-home5:hover .price, .pricing-box-home5.active .price, .pricing-box-home5:hover .order-now, .pricing-box-home5.active .order-now, .two-color-boxes-multi{
+	background:#f35c55;
+}
+.col-fea-box{
+	background: rgba(243, 92, 85, .8);
+}
+.orange-button, .blue-button, .samll-grey-button:hover, .pricing-box.style-1:hover .samll-grey-button, .pricing-box.style-1.active .samll-grey-button, .col-fea-box-white::before{
+	border:solid 1px #f35c55;
+}
+.domain-search {
+	background:#f35c55 url(../../images/clouds-white.png) repeat-x center bottom;
+}
+.service-title {
+    background: #f35c55 url(../../images/clouds-white-small.png) no-repeat scroll left bottom;
+}
+.domain-search.shape-white {
+    background: #f35c55 url(../../images/shape-white.png) no-repeat scroll center bottom;
+}
+.sky-form .radio input:checked + i, .sky-form .checkbox input:checked + i, .sky-form .toggle input:checked + i{
+	border-color:#f35c55;
+}
+
+/* scroll up */
+.scrollup {
+	background: #f35c55 url(../../images/scroll-top-arrow.png) no-repeat 15px 14px;
+}
+
+/* whmcs pages colors */
+.div.header-lined h1, ol.breadcrumb li a, h1 small, .kbcategories a, .kbcategories a .glyphicon, .kbarticles a, .kbarticles a .glyphicon{
+	color: #f35c55 !important;
+}
+.btn-success, .btn-primary, .kbcategories .badge, a.list-group-item.active, a.list-group-item.active:hover, a.list-group-item.active:focus, .btn-info, .btn-info:hover{
+	background-color: #f35c55 !important;
+}
+.nav .caret, .nav a:hover .caret {
+    border-bottom-color: #f35c55;
+    border-top-color: #f35c55;
+}
+.btn-success, .list-group-item.active, .list-group-item.active:focus, .list-group-item.active:hover, .btn-primary, .btn-primary:hover, .btn-success:hover, .btn-info, .btn-info:hover{
+	border-color: #f35c55;
+}
+blockquote {
+    border-left: 5px solid #f35c55;
+}
+.home-shortcuts {
+    background: #f35c55 none repeat scroll 0 0;
+}
+.home-shortcuts li:first-child {
+    border-left: 1px solid #dc453e;
+}
+.home-shortcuts li {
+    border-right: 1px solid #dc453e;
+}
+.table > thead > tr > th {
+    border-bottom: 1px solid #f35c55;
+}
+.dataTables_wrapper .dataTables_info{
+	background-color: #f35c55 !important;
+}
+#main-body .table-container table.table-list thead th{
+	background-color: #e6ecef !important;
+}
+#main-body .table-container .table > thead > tr > th {
+    border-bottom: 1px solid #e6ecef;
+}
+.home-shortcuts {
+  background: #f35c55;
+}
+.home-shortcuts li {
+  border-right: 1px solid #dc453e;
+}
+.home-shortcuts li:first-child {
+  border-left: 1px solid #dc453e;
+}
+.btn-info{color:#fff;background-color:#f35c55;border-color:#f35c55}
+.btn-info.focus,.btn-info:focus{color:#fff;background-color:#dc453e;border-color:#dc453e}
+.btn-info:hover{color:#fff;background-color:#dc453e;border-color:#dc453e}
+.btn-info.active,.btn-info:active,.open>.dropdown-toggle.btn-info{color:#fff;background-color:#dc453e;border-color:#dc453e}
+.kbarticles a {
+    color: #f35c55;
+}
+.kbarticles a .glyphicon {
+    color: #f35c55;
+}
+.kbcategories a{
+	color: #f35c55;
+}
+.kbcategories a .glyphicon{
+	color: #f35c55;
+}
+.badge {
+    background-color: #f35c55;
+}
+div.header-lined h1{
+	color: #f35c55;
+}
+.announcement-single h2 a {
+    color: #f35c55;
+}
+.navbar-main .dropdown-menu > li > a:hover, .dropdown-menu > li > a:focus {
+    text-decoration: none;
+    color: #fff;
+    background-color: #f35c55;
+}
+.table > thead > tr > th {
+    border-bottom: 1px solid #e4e4e4;
+}
+/**Premium comparison table**/
+#order-premium_comparison .price-table-container .price-table .top-head {
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #f35c55 0%, #dc453e 100%) repeat scroll 0 0  !important;
+}
+#order-premium_comparison .price-table-container .price-table .top-head .top-area {
+    border-bottom: 1px solid #dc453e !important;
+}
+#order-premium_comparison .price-table-container .price-table .top-head .price-area {
+    border-top: 1px solid #f35c55 !important;
+}
+#order-premium_comparison .price-table-container .order-button, #order-premium_comparison .price-table-container .order-button:hover {
+    background: rgba(0, 0, 0, 0) linear-gradient(to bottom, #f35c55 0%, #dc453e 100%) repeat scroll 0 0 !important;
+}
+/**Premium comparison table end**/

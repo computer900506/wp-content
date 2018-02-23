@@ -1,0 +1,13 @@
+.home-shortcuts {
+  background: #49a32b;
+}
+.home-shortcuts li {
+  border-right: 1px solid #3a941c;
+}
+.home-shortcuts li:first-child {
+  border-left: 1px solid #3a941c;
+}
+.btn-info{color:#fff;background-color:#49a32b;border-color:#49a32b}
+.btn-info.focus,.btn-info:focus{color:#fff;background-color:#328c14;border-color:#328c14}
+.btn-info:hover{color:#fff;background-color:#328c14;border-color:#328c14}
+.btn-info.active,.btn-info:active,.open>.dropdown-toggle.btn-info{color:#fff;background-color:#328c14;border-color:#328c14}
